@@ -1,11 +1,11 @@
 # 同济高程课程网站
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![Deploy VitePress site to Pages](https://github.com/Tongji-High-level-Language-Programming/Website/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/Tongji-High-level-Language-Programming/Website/actions/workflows/deploy.yml)
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-[![Deploy VitePress site to Pages](https://github.com/Tongji-High-level-Language-Programming/Website/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/Tongji-High-level-Language-Programming/Website/actions/workflows/deploy.yml)
 
 ## 简介
 
