@@ -12,6 +12,8 @@
 
 [北京大学学生 Linux 俱乐部：计算机入门系列课程](https://missing.lcpu.dev/)
 
+[BitLocker 简介](./bitlocker/)
+
 ## 自学指南
 
 [计算机科学自学指南](https://csdiy.wiki/) 汇总了全世界优秀的公开课，[CS 自学社区](https://www.learncs.site/) 提供了优秀的学习路线图以及大量中文资源。
