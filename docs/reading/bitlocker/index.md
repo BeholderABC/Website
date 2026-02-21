@@ -2,7 +2,9 @@
 
 ::: tip TL;DR
 
+
 Windows 出厂自带用于保护数据安全的 [Bitlocker](https://support.microsoft.com/zh-cn/windows/windows-%E4%B8%AD%E7%9A%84%E8%AE%BE%E5%A4%87%E5%8A%A0%E5%AF%86-cf7e2b6f-3e70-4882-9532-18633605b7df) 功能。然而，如果对其缺乏了解，这个功能可能导致 **全盘数据丢失** 的严重后果。因此，应阅读本文，了解使用此功能的[最佳实践](#最佳实践)，或 [关闭 BitLokcer](#关闭-bitlocker)
+
 
 :::
 
